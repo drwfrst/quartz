@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "JwgoSelect",
+    pageTitle: "Jwgo",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
